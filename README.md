@@ -4,10 +4,11 @@
 Facilitator: [@choumx](https://github.com/choumx)
 
 # Members
-- [@choumx](https://github.com/choumx) - William Chou (Facilitator)
-- [@jasti](https://github.com/jasti) - Vamsee Jasti
-- [@fstanis](https://github.com/fstanis) - Filip Stanis
 - [@cathyma123](https://github.com/cathyma123) - Cathy Ma
+- [@choumx](https://github.com/choumx) - William Chou (Facilitator)
+- [@fstanis](https://github.com/fstanis) - Filip Stanis
+- [@jasti](https://github.com/jasti) - Vamsee Jasti
+- [@johnbarr](https://github.com/johnbarr) - John Barr
 - [@kaewka](https://github.com/kaewka) - Thanawat Kaewka
 - [@latrekc](https://github.com/latrekc) - Stanislav Tugovikov
 
