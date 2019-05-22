@@ -4,8 +4,13 @@
 Facilitator: [@choumx](https://github.com/choumx)
 
 # Members
+- [@cathyma123](https://github.com/cathyma123) - Cathy Ma
 - [@choumx](https://github.com/choumx) - William Chou (Facilitator)
+- [@fstanis](https://github.com/fstanis) - Filip Stanis
 - [@jasti](https://github.com/jasti) - Vamsee Jasti
+- [@johnbarr](https://github.com/johnbarr) - John Barr
+- [@kaewka](https://github.com/kaewka) - Thanawat Kaewka
+- [@latrekc](https://github.com/latrekc) - Stanislav Tugovikov
 
 Github team https://github.com/orgs/ampproject/teams/wg-amp4email also includes AMP for Email WG members.
 
