@@ -1,5 +1,5 @@
 # wg-amp4email
-**wg-amp4email** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for the development and maintenance of the [AMP for Email specification](https://github.com/ampproject/amphtml/blob/master/spec/amp-email-format.md) and related features.
+**wg-amp4email** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for the development and maintenance of the [AMP for Email specification](https://github.com/ampproject/amphtml/blob/master/spec/email/amp-email-format.md) and related features.
 
 Facilitator: [@choumx](https://github.com/choumx)
 
