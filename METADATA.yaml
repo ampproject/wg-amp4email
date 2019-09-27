@@ -1,0 +1,29 @@
+title: AMP for Email
+description: wg-amp4email Working Group is responsible for the development and maintenance of the AMP for Email specification and related features.
+facilitator:
+  login: choumx
+  name: William Chou
+members:
+  - login: cathyma123
+    name: Cathy Ma
+  - login: fstanis
+    name: Filip Stanis
+  - login: jasti
+    name: Vamsee Jasti
+  - login: johnbarr
+    name: John Barr
+  - login: kaewka
+    name: Thanawat Kaewka
+  - login: latrekc
+    name: Stanislav Tugovikov
+communication:
+  - channel: slack
+    name: Slack
+    content:
+      - item: "AMP for Email Working Group members will use `#wg-amp4email` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in AMP for Email working group."
+  - channel: github
+    name: GitHub
+    content:
+      - item: "UI Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository."
+      - item: "AMP for Email Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository."
+      - item: "AMP for Email Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository"
