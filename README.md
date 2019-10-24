@@ -1,5 +1,5 @@
 # wg-amp4email
-**wg-amp4email** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for the development and maintenance of the [AMP for Email specification](https://github.com/ampproject/amphtml/blob/master/spec/amp-email-format.md) and related features.
+**wg-amp4email** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for the development and maintenance of the [AMP for Email specification](https://github.com/ampproject/amphtml/tree/master/spec/email) and related features.
 
 Facilitator: [@choumx](https://github.com/choumx)
 
@@ -19,6 +19,7 @@ Github team https://github.com/orgs/ampproject/teams/wg-amp4email also includes 
 - AMP for Email Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository.
 - AMP for Email Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository.
 - AMP for Email Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository.
+- AMP for Email Working Group has a [mailing list](https://groups.google.com/forum/#!forum/ampforemail) that's currently open to email providers.
 
 Any bugs or feature requests related to AMP should NOT be filed in this repository and https://github.com/ampproject/amphtml/issues should be used instead.
 
