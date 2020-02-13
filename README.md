@@ -6,13 +6,12 @@ Facilitator: [@choumx](https://github.com/choumx)
 # Members
 - [@cathyma123](https://github.com/cathyma123) - Cathy Ma
 - [@choumx](https://github.com/choumx) - William Chou (Facilitator)
-- [@fstanis](https://github.com/fstanis) - Filip Stanis
-- [@jasti](https://github.com/jasti) - Vamsee Jasti
 - [@johnbarr](https://github.com/johnbarr) - John Barr
 - [@kaewka](https://github.com/kaewka) - Thanawat Kaewka
 - [@latrekc](https://github.com/latrekc) - Stanislav Tugovikov
+- [@nainar](https://github.com/nainar) - Naina Raisinghani
 
-Github team https://github.com/orgs/ampproject/teams/wg-amp4email also includes AMP for Email WG members.
+GitHub team https://github.com/orgs/ampproject/teams/wg-amp4email also includes AMP for Email WG members.
 
 # Communication Channels
 - AMP for Email Working Group members will use `#wg-amp4email` channel on AMP's Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877)) for real-time discussion. The channel is open to anyone, regardless of membership in AMP for Email working group.
