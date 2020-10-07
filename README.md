@@ -5,11 +5,11 @@ Facilitator: [@choumx](https://github.com/choumx)
 
 # Members
 - [@cathyma123](https://github.com/cathyma123) - Cathy Ma
-- [@choumx](https://github.com/choumx) - William Chou (Facilitator)
+- [@choumx](https://github.com/choumx) - William Chou
 - [@johnbarr](https://github.com/johnbarr) - John Barr
 - [@kaewka](https://github.com/kaewka) - Thanawat Kaewka
 - [@latrekc](https://github.com/latrekc) - Stanislav Tugovikov
-- [@nainar](https://github.com/nainar) - Naina Raisinghani
+- [@nainar](https://github.com/nainar) - Naina Raisinghani (Facilitator)
 - [@M-J-Robbins](https://github.com/M-J-Robbins) - Mark Robbins
 
 [GitHub team wg-amp4email](https://github.com/orgs/ampproject/teams/wg-amp4email) also includes AMP for Email WG members.
