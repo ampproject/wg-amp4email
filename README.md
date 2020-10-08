@@ -1,7 +1,7 @@
 # wg-amp4email
 **wg-amp4email** [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is responsible for the development and maintenance of the [AMP for Email specification](https://github.com/ampproject/amphtml/tree/master/spec/email) and related features.
 
-Facilitator: [@choumx](https://github.com/choumx)
+Facilitator: [@nainar](https://github.com/nainar)
 
 # Members
 - [@cathyma123](https://github.com/cathyma123) - Cathy Ma
